@@ -1,1 +1,5 @@
 print("Hello")
+print("My name is siddhi." , "My name is siddhi.")
+print(23)
+print(35)
+print(23+35)
