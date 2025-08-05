@@ -1,17 +1,17 @@
-#1while Loop
+# 1while Loop
 count=1
 while(count<=5):
     count += 1
     print("Hello")
 
-# # count=1
+# count=1
 while count<=5 :
     print("hello")
     count += 1
 print(count)
 
 
-#print no from 1 to 5
+# print no from 1 to 5
 i=0
 while i<=5:
     i+=1
@@ -19,7 +19,7 @@ while i<=5:
 
 print("end")
 
-#5 to 1
+# 5 to 1
 i=5
 while i>=1:
     print(i)
@@ -27,7 +27,7 @@ while i>=1:
 print("end")
 
 
-#2.break
+# 2.break
 i=1
 while i<=5:
     print(i)
@@ -45,7 +45,7 @@ while i<len(nums):
         break
     i += 1
 
-#3 continue
+# 3 continue
 i=0
 while i<=5:
     if(i==3):
